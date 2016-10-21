@@ -1,1 +1,1 @@
-# app-tutorial
+#  My first app with React and MeteorJS
